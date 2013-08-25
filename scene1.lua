@@ -10,7 +10,11 @@ local scene = storyboard.newScene()
 local widget = require( "widget" )
 
 
-local rectangle, circleRed, rectangle3, buttonCircleRed, rectangle2, doorLock, buttonCircleLock
+local rectangle, rectangle3, rectangle2
+--circle Item
+local buttonCircleRed, doorLock, buttonCircleLock, circleRed
+
+--Quit 
 local quitText, quitRect, buttonQuit
 
 
